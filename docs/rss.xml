@@ -7,8 +7,72 @@
     <description>AI 行业每日精选</description>
     <language>zh-CN</language>
     <copyright>© 2026 hiwd · All rights reserved. https://hiwd.com/</copyright>
-    <lastBuildDate>Sat, 05 Sep 2026 06:26:06 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 06:08:20 +0800</lastBuildDate>
     <atom:link href="https://daily.hiwd.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 行业每日简报 · 2026-09-06</title>
+      <link>https://daily.hiwd.com/archive/2026-09/2026-09-06.html</link>
+      <guid isPermaLink="true">https://daily.hiwd.com/archive/2026-09/2026-09-06.html</guid>
+      <pubDate>Sun, 06 Sep 2026 23:59:00 +0800</pubDate>
+      <description><![CDATA[<h3>🎯 今日 Top 3</h3>
+<p><strong>标题</strong>：<a href="https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning">登山者使用 Google Gemini 规划路线被误导，救援人员称其建议食物和水远低于需求</a></p>
+<p><strong>来源</strong>：<a href="https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning">TechCrunch AI</a> · 2026-09-05</p>
+<!-- published_at: 2026-09-05T19:35:24+00:00 -->
+
+<p><strong>摘要</strong>：</p>
+<ul>
+<li>两名徒步者在科罗拉多州山区迷路后获救。警长办公室表示，他们使用 Gemini 规划路线时，该工具建议携带的食物和水远低于团队实际所需。</li>
+<li>生成式 AI 在消费级场景的规划建议可以直接影响现实安全，暴露了当前模型在风险评估上的不足。</li>
+<li>使用 AI 进行户外活动规划的普通消费者。</li>
+</ul>
+<p><strong>产品技术视角</strong>：Gemini 的规划能力在安全关键场景中产生误导，凸显了产品在可信度方面的缺陷。</p>
+<hr />
+<p><strong>标题</strong>：<a href="https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion">Instagram 的 AI 内容检测再次翻车，大量用户报告照片被错误标记</a></p>
+<p><strong>来源</strong>：<a href="https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion">The Verge AI</a> · 2026-09-04</p>
+<!-- published_at: 2026-09-04T08:00:00-04:00 -->
+
+<p><strong>摘要</strong>：</p>
+<ul>
+<li>Instagram 近期大量用户反映，平台将未经 AI 处理的真实照片自动标记为“AI 内容”，检测系统出现异常。</li>
+<li>AI 检测系统的误标会损害普通用户的内容可信度，并可能影响创作者分发。</li>
+<li>Instagram 普通用户和内容创作者。</li>
+</ul>
+<p><strong>产品技术视角</strong>：Meta 的 AI 内容标记功能在准确性上出现问题，影响了用户体验和内容生态。</p>
+<hr />
+<p><strong>标题</strong>：<a href="https://vercel.com/changelog/ling-3-0-flash-sante-is-now-available-on-ai-gateway-for-free">Ling 3.0 Flash Sante 在 Vercel AI Gateway 免费提供</a></p>
+<p><strong>来源</strong>：<a href="https://vercel.com/changelog/ling-3-0-flash-sante-is-now-available-on-ai-gateway-for-free">Vercel Changelog</a> · 2026-09-04</p>
+<!-- published_at: 2026-09-04T00:00:00+00:00 -->
+
+<p><strong>摘要</strong>：</p>
+<ul>
+<li>Inclusion AI 的模型 Ling 3.0 Flash Sante 现已在 Vercel AI Gateway 上免费提供，直至 10 月 4 日，可通过免费模型 ID 或常规 ID 使用。</li>
+<li>免费开放降低了开发者试用新模型的成本，可能加速其采用。</li>
+<li>在 Vercel 上构建 AI 应用的开发者。</li>
+</ul>
+<p><strong>产品技术视角</strong>：模型通过主流平台免费分发，扩大了开发者触达范围。</p>
+<h3>📰 其他值得看的</h3>
+<ul>
+<li>
+<p><strong><a href="https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them">OpenAI 的失控代理多次逃逸，缺乏正式调查流程</a></strong> · TechCrunch AI</p>
+</li>
+<li>
+<p><strong><a href="https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that">为什么 AI 食物图片看起来如此诡异</a></strong> · The Verge AI</p>
+</li>
+<li>
+<p><strong><a href="https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack">苹果 Ternus 时代开启，Nvidia 押注全栈 AI</a></strong> · TechCrunch AI</p>
+</li>
+<li>
+<p><strong><a href="https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout">Sam Altman 为 GPT-6 Astra 混乱发布道歉，付费用户被锁在门外</a></strong> · The Verge AI</p>
+</li>
+</ul>
+<h3>🔍 今日主题观察</h3>
+<p>AI 在安全关键场景中的可靠性问题浮出水面：从徒步规划到内容审核，误判直接影响用户安全与信任。同时，开发者生态中的模型分发与免费策略正在加速，模型能力走向代理任务但治理滞后。</p>
+<h3>⚠️ 信息来源说明</h3>
+<ul>
+<li>直接提供内容的源：TechCrunch AI、The Verge AI、Vercel Changelog</li>
+<li>所有链接均来自程序已核验的公开数据源。</li>
+</ul>]]></description>
+    </item>
     <item>
       <title>AI 行业每日简报 · 2026-09-05</title>
       <link>https://daily.hiwd.com/archive/2026-09/2026-09-05.html</link>
@@ -846,70 +910,6 @@
 <h3>⚠️ 信息来源说明</h3>
 <ul>
 <li>直接提供内容的源：The Verge AI、Vercel Changelog、TechCrunch AI</li>
-<li>所有链接均来自程序已核验的公开数据源。</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>AI 行业每日简报 · 2026-08-21</title>
-      <link>https://daily.hiwd.com/archive/2026-08/2026-08-21.html</link>
-      <guid isPermaLink="true">https://daily.hiwd.com/archive/2026-08/2026-08-21.html</guid>
-      <pubDate>Fri, 21 Aug 2026 23:59:00 +0800</pubDate>
-      <description><![CDATA[<h3>🎯 今日 Top 3</h3>
-<p><strong>标题</strong>：<a href="https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses">Google 给出版商新按钮，让读者把它设为全平台首选来源</a></p>
-<p><strong>来源</strong>：<a href="https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses">TechCrunch AI</a> · 2026-08-20</p>
-<!-- published_at: 2026-08-20T19:18:21+00:00 -->
-
-<p><strong>摘要</strong>：</p>
-<ul>
-<li>Google 推出新按钮，允许读者将某个出版商设为 Search、Discover 和 Google News 中的首选来源。</li>
-<li>在 AI 搜索减少点击量的背景下，这给出版商提供了一个直接提升可见性和流量的官方工具，改变了分发规则。</li>
-<li>依赖搜索流量的出版商和内容创作者，以及使用 Google 搜索的读者。</li>
-</ul>
-<p><strong>产品技术视角</strong>：该功能嵌入在 Google 搜索生态中，通过用户偏好设置影响内容排名和推荐，为出版商提供对抗 AI 流量损失的手段。</p>
-<hr />
-<p><strong>标题</strong>：<a href="https://cursor.com/changelog/08-19-26">Cursor 云代理改进：可根据事件自动接活，持续自主构建</a></p>
-<p><strong>来源</strong>：<a href="https://cursor.com/changelog/08-19-26">Cursor</a> · 2026-08-19</p>
-<!-- published_at: 2026-08-19T20:52:11+00:00 -->
-
-<p><strong>摘要</strong>：</p>
-<ul>
-<li>Cursor 更新云代理和 Harness，使云代理能响应事件自动领取工作、坚持目标并保持长时间会话。</li>
-<li>这使 Cursor 从辅助编码工具向自主软件构建系统演进，开发者可将更多重复性任务交给代理，改变开发工作流。</li>
-<li>使用 Cursor 的开发者，尤其是依赖云端持续集成和自动化的团队。</li>
-</ul>
-<p><strong>产品技术视角</strong>：Cursor 正在构建一个能自主运行、无需人工逐环干预的代理系统，提升 AI 编码的自动化水平和生产力。</p>
-<hr />
-<p><strong>标题</strong>：<a href="https://openai.com/index/introducing-ai-futures">OpenAI 推出 AI Futures 博客，探讨 AI 对社会的长期影响</a></p>
-<p><strong>来源</strong>：<a href="https://openai.com/index/introducing-ai-futures">OpenAI</a> · 2026-08-20</p>
-<!-- published_at: 2026-08-20T07:00:00+00:00 -->
-
-<p><strong>摘要</strong>：</p>
-<ul>
-<li>OpenAI 正式推出 AI Futures 博客，聚焦 AI 如何重塑权力、治理、经济和个人自由。</li>
-<li>作为领先 AI 实验室，OpenAI 主动参与公共政策讨论，其观点可能影响监管和公众认知，但该博客本身是观点平台而非产品发布。</li>
-<li>关注 AI 治理和长期影响的政策制定者、研究人员和公众。</li>
-</ul>
-<p><strong>产品技术视角</strong>：这是 OpenAI 的内容产品，旨在塑造 AI 叙事，而非技术或商业工具，因此重要性较低，但代表公司战略方向。</p>
-<h3>📰 其他值得看的</h3>
-<ul>
-<li>
-<p><strong><a href="https://huggingface.co/blog/LiquidAI/lfm25-dspark">Hugging Face 博客：LFM2.5-DSpark 推理速度提升高达 3.2 倍</a></strong> · Hugging Face Blog</p>
-</li>
-<li>
-<p><strong><a href="https://vercel.com/changelog/fish-audio-models-now-available-on-ai-gateway-for-free">Vercel AI Gateway 免费提供 Fish Audio 语音和转录模型</a></strong> · Vercel Changelog</p>
-</li>
-<li>
-<p><strong><a href="https://openai.com/index/stampli">OpenAI 案例：Stampli 使用 ChatGPT Work 将发布工时缩短 68%</a></strong> · OpenAI</p>
-</li>
-<li>
-<p><strong><a href="https://blog.google/products-and-platforms/products/search/back-to-school-study-tools">Google 搜索新增学习工具，帮助学生备考</a></strong> · Google AI Blog</p>
-</li>
-</ul>
-<h3>🔍 今日主题观察</h3>
-<p>AI 正在从对话工具变成自主执行系统：Cursor 的云代理能自动接活，Ramp 的路由器让模型选择成为基础设施，Google 则在调整搜索分发以应对 AI 冲击。开发者工作流和企业基础设施正在被重新定义。</p>
-<h3>⚠️ 信息来源说明</h3>
-<ul>
-<li>直接提供内容的源：TechCrunch AI、Cursor、OpenAI</li>
 <li>所有链接均来自程序已核验的公开数据源。</li>
 </ul>]]></description>
     </item>
