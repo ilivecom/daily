@@ -7,8 +7,49 @@
     <description>AI 行业每日精选</description>
     <language>zh-CN</language>
     <copyright>© 2026 hiwd · All rights reserved. https://hiwd.com/</copyright>
-    <lastBuildDate>Sun, 06 Sep 2026 06:08:20 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 06:11:56 +0800</lastBuildDate>
     <atom:link href="https://daily.hiwd.com/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI 行业每日简报 · 2026-09-07</title>
+      <link>https://daily.hiwd.com/archive/2026-09/2026-09-07.html</link>
+      <guid isPermaLink="true">https://daily.hiwd.com/archive/2026-09/2026-09-07.html</guid>
+      <pubDate>Mon, 07 Sep 2026 23:59:00 +0800</pubDate>
+      <description><![CDATA[<h3>🎯 今日 Top 3</h3>
+<p><strong>标题</strong>：<a href="https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement">Anthropic 和解金分配引作者抗议</a></p>
+<p><strong>来源</strong>：<a href="https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement">TechCrunch AI</a> · 2026-09-06</p>
+<!-- published_at: 2026-09-06T20:47:37+00:00 -->
+
+<p><strong>摘要</strong>：</p>
+<ul>
+<li>作者与出版商就 Anthropic 和解金的分配出现分歧，作者认为出版商索要份额过高。</li>
+<li>这显示 AI 公司对版权内容的使用正在引发传统出版链条内部的利益冲突，影响创作者生态。</li>
+<li>作者、出版商、文学代理机构，以及依赖版权内容的 AI 模型开发者。</li>
+</ul>
+<p><strong>产品技术视角</strong>：和解协议的执行细节将影响 AI 训练数据的授权模式和成本结构。</p>
+<hr />
+<p><strong>标题</strong>：<a href="https://openai.com/index/research-acceleration-view-inside-openai">OpenAI 内部研究加速：编码代理重塑 AI 研发</a></p>
+<p><strong>来源</strong>：<a href="https://openai.com/index/research-acceleration-view-inside-openai">OpenAI</a> · 2026-09-06</p>
+<!-- published_at: 2026-09-06T08:00:00+00:00 -->
+
+<p><strong>摘要</strong>：</p>
+<ul>
+<li>OpenAI 展示了内部使用编码代理的数据，代理提升了实验速度和任务复杂度。</li>
+<li>这表明 AI 开发者正在使用自己的工具加速 AI 研发，可能缩短模型迭代周期。</li>
+<li>AI 研究人员、依赖快速模型更新的开发者，以及竞争中的 AI 实验室。</li>
+</ul>
+<p><strong>产品技术视角</strong>：编码代理的应用从辅助编程扩展到科研工作流，提升了研发效率。</p>
+<h3>📰 其他值得看的</h3>
+<ul>
+<li><strong><a href="https://openai.com/index/an-alien-mind">An Alien Mind</a></strong> · OpenAI</li>
+</ul>
+<h3>🔍 今日主题观察</h3>
+<p>AI 行业正从技术突破转向利益分配与流程再造：版权和解的分配争议显示创作者生态的紧张，而内部编码代理的采用则预示着 AI 研发自身正在被自动化加速。两者共同指向 AI 落地的现实摩擦与效率红利。</p>
+<h3>⚠️ 信息来源说明</h3>
+<ul>
+<li>直接提供内容的源：TechCrunch AI、OpenAI</li>
+<li>所有链接均来自程序已核验的公开数据源。</li>
+</ul>]]></description>
+    </item>
     <item>
       <title>AI 行业每日简报 · 2026-09-06</title>
       <link>https://daily.hiwd.com/archive/2026-09/2026-09-06.html</link>
@@ -834,82 +875,6 @@
 <h3>⚠️ 信息来源说明</h3>
 <ul>
 <li>直接提供内容的源：TechCrunch AI</li>
-<li>所有链接均来自程序已核验的公开数据源。</li>
-</ul>]]></description>
-    </item>
-    <item>
-      <title>AI 行业每日简报 · 2026-08-23</title>
-      <link>https://daily.hiwd.com/archive/2026-08/2026-08-23.html</link>
-      <guid isPermaLink="true">https://daily.hiwd.com/archive/2026-08/2026-08-23.html</guid>
-      <pubDate>Sun, 23 Aug 2026 23:59:00 +0800</pubDate>
-      <description><![CDATA[<h3>🎯 今日 Top 3</h3>
-<p><strong>标题</strong>：<a href="https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message">LinkedIn 的“AI 垃圾内容”按钮已被点击超百万次</a></p>
-<p><strong>来源</strong>：<a href="https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message">The Verge AI</a> · 2026-08-21</p>
-<!-- published_at: 2026-08-21T17:25:50-04:00 -->
-
-<p><strong>摘要</strong>：</p>
-<ul>
-<li>LinkedIn 首席产品官宣布，自 7 月 30 日上线以来，“似乎像 AI 垃圾内容”按钮已被超过 100 万人点击。</li>
-<li>百万级真实用户主动标记，证明 AI 生成的低质内容已泛滥到平台需要提供显性反制工具，内容分发的信任机制正在被改写。</li>
-<li>LinkedIn 内容创作者、普通用户，以及其他社交平台的产品团队。</li>
-</ul>
-<p><strong>产品技术视角</strong>：平台首次将用户对 AI 内容的反感量化为功能使用数据，为内容治理和推荐算法提供直接反馈信号。</p>
-<hr />
-<p><strong>标题</strong>：<a href="https://vercel.com/changelog/gpt-5-6-sol-is-now-50-percent-off-a-lower-price">Vercel AI Gateway 大幅降价：GPT-5.6 Sol 降 50%，DeepSeek V4 Flash Vision 上线</a></p>
-<p><strong>来源</strong>：<a href="https://vercel.com/changelog/gpt-5-6-sol-is-now-50-percent-off-a-lower-price">Vercel Changelog</a> · 2026-08-21</p>
-<!-- published_at: 2026-08-21T00:00:00+00:00 -->
-
-<p><strong>摘要</strong>：</p>
-<ul>
-<li>GPT-5.6 Sol 降价 50% 至每百万 token 4 美元（输入）和 20 美元（输出），同时 DeepSeek V4 Flash Vision Experimental 上线 AI Gateway，支持图像输入和 1M token 上下文。</li>
-<li>高级模型价格大幅下降，视觉多模态模型通过统一 API 分发，直接降低 AI 应用构建与运行成本，加速多模态功能普及。</li>
-<li>使用 Vercel AI Gateway 的开发者、使用 GPT-5.6 Sol 或 DeepSeek 模型的企业与个人。</li>
-</ul>
-<p><strong>产品技术视角</strong>：AI Gateway 作为模型分发层，通过聚合多家模型并优化定价，成为 AI 应用成本控制与能力获取的关键入口。</p>
-<hr />
-<p><strong>标题</strong>：<a href="https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero">Nvidia 研究显示：智能体表现关键在“训练支架”而非模型本身</a></p>
-<p><strong>来源</strong>：<a href="https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero">TechCrunch AI</a> · 2026-08-21</p>
-<!-- published_at: 2026-08-21T19:43:39+00:00 -->
-
-<p><strong>摘要</strong>：</p>
-<ul>
-<li>Nvidia 研究表明，通过微调智能体的“训练支架”（harness），即使基础模型能力一般，智能体也能表现良好且不偏离预期。</li>
-<li>模型能力不再是智能体性能的唯一决定因素，工程化调优可以弥补模型短板，改变企业选择模型与构建智能体的策略。</li>
-<li>AI 智能体开发者、企业 AI 团队、模型供应商的竞争定位。</li>
-</ul>
-<p><strong>产品技术视角</strong>：智能体平台和工具链的重要性上升，企业可能更关注调优和集成能力而非追求最新模型。</p>
-<h3>📰 其他值得看的</h3>
-<ul>
-<li>
-<p><strong><a href="https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model">前沿 AI 实验室仍不愿透露如何遏制失控模型</a></strong> · TechCrunch AI</p>
-</li>
-<li>
-<p><strong><a href="https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack">GitHub Copilot 新体验进入 Slack 公开预览</a></strong> · GitHub Changelog</p>
-</li>
-<li>
-<p><strong><a href="https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams">GitHub Copilot 在 Microsoft Teams 推出共享智能体协作</a></strong> · GitHub Changelog</p>
-</li>
-<li>
-<p><strong><a href="https://developers.cloudflare.com/changelog/post/2026-08-22-wrangler-mcp-optional-oauth-scopes">Cloudflare 允许为 Wrangler 和 MCP 服务器选择 OAuth 权限范围</a></strong> · Cloudflare Changelog</p>
-</li>
-<li>
-<p><strong><a href="https://vercel.com/blog/how-ora-benchmarks-every-major-ai-agent-on-vercel">Ora 在 Vercel 上基准测试主流 AI 智能体</a></strong> · Vercel Changelog</p>
-</li>
-<li>
-<p><strong><a href="https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash">YouTube 大创作者因接受 AI 合作遭粉丝反弹</a></strong> · The Verge AI</p>
-</li>
-<li>
-<p><strong><a href="https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed">Google Discover 将推出 AI 聊天机器人调优的个性化信息流</a></strong> · The Verge AI</p>
-</li>
-<li>
-<p><strong><a href="https://huggingface.co/blog/asr-benchmark-optimization">语音识别基准优化测量</a></strong> · Hugging Face Blog</p>
-</li>
-</ul>
-<h3>🔍 今日主题观察</h3>
-<p>平台与工具链正在成为 AI 价值链的关键：LinkedIn 用数据揭示用户对 AI 内容的态度，Vercel 通过降价和聚合分发降低模型使用成本，Nvidia 则强调智能体调优支架的重要性。这些变化共同表明，AI 的落地重心正从单一模型能力转向工程集成、成本控制和用户体验。</p>
-<h3>⚠️ 信息来源说明</h3>
-<ul>
-<li>直接提供内容的源：The Verge AI、Vercel Changelog、TechCrunch AI</li>
 <li>所有链接均来自程序已核验的公开数据源。</li>
 </ul>]]></description>
     </item>
